@@ -3,7 +3,9 @@
 **`Fullstack Developer`**
 
 🎓 Information Systems Student (7th semester) | UNIFACOL
+
 💼 IT Support of Secretary of Health of Moreno
+
 🇧🇷 Pernambuco, Brazil
 
 ### 🤖 Linguagens e Tecnologias
