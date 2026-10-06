@@ -2,7 +2,7 @@
 
 **`Fullstack Developer`**
 
-🎓 **Information Systems Student (7th semester) | UNIFACOL**
+🎓 **Information Systems Student (8th semester) | UNIFACOL**
 
 💼 **IT Support of Secretary of Health of Moreno**
 
